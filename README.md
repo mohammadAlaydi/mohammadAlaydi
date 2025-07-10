@@ -12,10 +12,10 @@
 
 <p align="center">
   <a href="https://porfolio-six-kohl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio 1-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://fluxbit-snowy.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio 2-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/take a look of what i can do-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
