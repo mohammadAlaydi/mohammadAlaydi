@@ -1,6 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
+<h2 align ="center" >About Me!</h2>
   🚀 Full Stack & Mobile Developer <br/>
   💻 React | Next.js | React Native | Node.js | Firebase | Tailwind CSS <br/>
   🛠 Building scalable, secure, and user-focused web & mobile apps
